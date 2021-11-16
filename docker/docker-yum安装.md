@@ -42,3 +42,5 @@ systemctl status docker
 ![](https://img2018.cnblogs.com/blog/761230/201909/761230-20190924101735498-1013963263.png)
 
 以上说明docker安装成功
+
+[[dcoker run运行流程]]
